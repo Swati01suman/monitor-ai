@@ -11,7 +11,7 @@ A full-stack AI-powered real-time system monitoring dashboard that tracks CPU, R
 - **AI Forecasting** — Linear trend forecasting predicts future CPU & RAM usage
 - **Alert Log** — Real-time alerts with timestamps when anomalies are detected
 - **Auto-reconnect** — WebSocket reconnects automatically if backend restarts
-- **Dark Dashboard** — Clean dark-themed UI with live sparkline charts
+- **Dashboard** — Clean dark-themed UI with live sparkline charts
 
 ## 🏗️ Tech Stack
 
@@ -95,4 +95,4 @@ Deployed on **AWS EC2** (Ubuntu) with:
 
 ## 👩‍💻 Author
 
-**Swati Suman** — [GitHub](https://github.com/Swati01suman) | [LinkedIn](https://www.linkedin.com/in/swati-suman777/)
+**Swati Suman** 
